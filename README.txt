@@ -4,3 +4,9 @@ Project Title The_Journey_of_a_Student_Life
 Project Advisot: Dr. MD. Taimur Ahad
 Group NameL Bugfixers
 Section: Computer Graphics [F]
+
+Team Members
+  1.  S.M. SAJIBUL ISLAM
+  2.  MD. ESHMAM RAYED
+  3. SADIA ISLAM NIHA
+  4. RAIHAN SIKDER ANIK
